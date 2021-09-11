@@ -33,13 +33,8 @@ Index(['Suburb', 'Address', 'Rooms', 'Type', 'Price', 'Method', 'SellerG',
        'Longtitude', 'Regionname', 'Propertycount'],
       dtype='object')
 
+<img width="531" alt="Screenshot 2021-09-11 at 9 32 10 PM" src="https://user-images.githubusercontent.com/87697272/132949581-1387109c-cb33-4ea8-998b-dd2f8607def6.png">
 
-
-
-
-
-
-<img width="1026" alt="Screenshot 2021-09-10 at 3 07 04 PM" src="https://user-images.githubusercontent.com/87697272/132949535-9b79fcae-d1bf-42f1-90d2-16d1f97f2acf.png">
 
 ## 🚀 About Me Faizal Shebli
 
