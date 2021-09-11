@@ -81,6 +81,6 @@ THE RESULT
 
 ## 🚀 About Me Faizal Shebli
 
-A passionate self taught data scientist that who is continuously and curiously using data to solve real business problem. 
+A passionate self taught data scientist  who will continuously and curiously using data to solve real business problem. 
 
   
