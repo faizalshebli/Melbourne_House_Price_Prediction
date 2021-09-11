@@ -13,7 +13,7 @@ A machine learning modeling project to predict the future pricing of a housing a
   
 ## Documentation
 
-[github link](https://github.com/faizalshebli/Melbourne_House_Price_Prediction/blob/main/melbourne%20analysis.py)
+
 
 PROBLEM STATEMENT
 
