@@ -34,6 +34,13 @@ Index(['Suburb', 'Address', 'Rooms', 'Type', 'Price', 'Method', 'SellerG',
       dtype='object')
 
 
+
+
+
+
+
+<img width="1026" alt="Screenshot 2021-09-10 at 3 07 04 PM" src="https://user-images.githubusercontent.com/87697272/132949535-9b79fcae-d1bf-42f1-90d2-16d1f97f2acf.png">
+
 ## 🚀 About Me Faizal Shebli
 
 A passionate self taught data scientist that who is continuously and curiously using data to solve real business problem. 
