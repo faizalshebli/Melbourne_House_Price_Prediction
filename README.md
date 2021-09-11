@@ -19,7 +19,7 @@ PROBLEM STATEMENT
 
 The housing dataset given had too many variables, or even to print out nicely. And we need to evaluate all the features in the data set so that we can understand the data given to us for this project.
 
-Step 1: Performe the EDA and understand the columns features in this data frame
+Step 1: Perform the EDA and understand the columns features in this data frame
 
 I performed a complete exploratory data analysis (EDA) process by analyzing the list of columns in the data set. From here we will understand the target colums that we are going to select for the prediction modelling later on.
 
