@@ -1,4 +1,3 @@
-<img width="529" alt="Exploring the column features" src="https://user-images.githubusercontent.com/87697272/132963475-02170e4b-5788-4b07-845f-7b15a2f61441.png">
 
 # Melbourne Housing Pricing Prediction Using Machine Learning
 
