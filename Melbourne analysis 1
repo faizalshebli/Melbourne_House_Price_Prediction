@@ -1,0 +1,8 @@
+#import libraries
+import pandas as pd
+
+#read data source file
+melbourne_data = pd.read_csv('/Users/faizalshebli/Documents/#FS2021/FS transformation/FS5T plan/FS learn ML via Kaggle/Data/melb_data.csv')
+
+#data set exploratory
+melbourne_data.head()
