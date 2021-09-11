@@ -19,7 +19,7 @@ PROBLEM STATEMENT
 
 The housing dataset given had too many variables, or even to print out nicely. And we need to evaluate all the features in the data set so that we can understand the data given to us for this project.
 
-===================================================================================================================================================================
+
 
 Step 1: Performe the EDA and understand the columns features in this data frame
 
@@ -33,7 +33,7 @@ Index(['Suburb', 'Address', 'Rooms', 'Type', 'Price', 'Method', 'SellerG',
        'Longtitude', 'Regionname', 'Propertycount'],
       dtype='object')
 
-===================================================================================================================================================================
+
 ## 🚀 About Me Faizal Shebli
 
 A passionate self taught data scientist that who is continuously and curiously using data to solve real business problem. 
