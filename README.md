@@ -78,6 +78,20 @@ THE RESULT
 <img width="439" alt="price prediction result" src="https://user-images.githubusercontent.com/87697272/132963502-e449f463-9c34-4294-9a8c-bf424410adc3.png">
 
 
+IMPROVISING THE MODEL BY RE-EVALUATING IT BY DETERMINING THE MEAN ABSOLUTE ERROR (MAE)
+
+<img width="499" alt="Determining Mean Average Error (MAE)" src="https://user-images.githubusercontent.com/87697272/133158898-dd89ef7d-6be5-4673-b3ad-4b791832fd8b.png">
+
+
+
+THIS IS THE FINAL RESULT
+
+<img width="531" alt="The final result" src="https://user-images.githubusercontent.com/87697272/133158931-abe3e0d8-03cb-4d78-9bb7-ce742e4565d7.png">
+
+
+
+
+
 
 ## 🚀 About Me Faizal Shebli
 
